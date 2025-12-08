@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shreyasinha518/Shreyasinha518/main/banner.png" />
+</p>
+
+### Hey! I'm Shreya  
+📧 Shreyasinhamisti999@gmail.com
 
 # 💫 About Me:
 Hi, I’m Shreya Sinha from Techno Main Salt Lake! Fun fact about me: I can switch from smashing a badminton shuttle to smashing bugs in code with equal excitement. I love exploring new tech, learning cool things, and yes—I’m here on GitHub to collaborate, create, and grow with amazing people like you!
