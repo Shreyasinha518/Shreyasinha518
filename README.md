@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shreyasinha518/Shreyasinha518/main/banner.png" />
-</p>
+
 
 ### Hey! I'm Shreya  
 📧 Shreyasinhamisti999@gmail.com
