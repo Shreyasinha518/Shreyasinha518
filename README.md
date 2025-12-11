@@ -1,8 +1,8 @@
 # 💫 About Me:
-🌟 Hi, I’m Shreya Sinha from Techno Main Salt Lake!
-🏸💻 Fun fact? I can switch from smashing a badminton shuttle to smashing bugs in code with the same level of excitement!
-🚀 I’m always exploring new tech, picking up cool skills, and building things that make me go “whoa, I made that!”
-🤝 Here on GitHub, I’m all about collaborating, creating, and growing with inspiring people like you.
+🌟 Hi, I’m Shreya Sinha from Techno Main Salt Lake!<br>
+🏸💻 Fun fact? I can switch from smashing a badminton shuttle to smashing bugs in code with the same level of excitement!<br>
+🚀 I’m always exploring new tech, picking up cool skills, and building things that make me go “whoa, I made that!”<br>
+🤝 Here on GitHub, I’m all about collaborating, creating, and growing with inspiring people like you.<br>
 Let’s make something awesome together! ✨🔥
 
 ## 🌐 Socials:
