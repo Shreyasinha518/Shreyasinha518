@@ -34,7 +34,8 @@ Let’s make something awesome together! ✨🔥
 
 ### 🔝 Top Repository
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=Shreyasinha518&repo=REPO_NAME&theme=tokyonight)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Shreyasinha518&theme=tokyo-night)
 
 
 ---
