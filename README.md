@@ -32,9 +32,9 @@ Let’s make something awesome together! ✨🔥
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Repository
 
-![](https://github-contributor-stats.vercel.app/api?username=Shreyasinha518&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=Shreyasinha518&repo=REPO_NAME&theme=tokyonight)
 
 
 ---
