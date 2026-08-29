@@ -1,6 +1,6 @@
-# 💫 About Me:
+#💫 About Me:
 🌟 Hi, I’m Shreya Sinha from Techno Main Salt Lake!<br>
-🏸💻 Fun fact? I can switch from smashing a badminton shuttle to smashing bugs in code with the same level of excitement!<br>
+💻 Fun fact? I can switch from smashing a badminton shuttle to smashing bugs in code with the same level of excitement!<br>
 🚀 I’m always exploring new tech, picking up cool skills, and building things that make me go “whoa, I made that!”<br>
 🤝 Here on GitHub, I’m all about collaborating, creating, and growing with inspiring people like you.<br>
 Let’s make something awesome together! ✨🔥
@@ -8,7 +8,7 @@ Let’s make something awesome together! ✨🔥
   <img src="https://komarev.com/ghpvc/?username=Shreyasinha518&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-## 🌐 Socials:
+## 🌐 SOCIALS:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/0342) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shreyasinha518) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ShreyaSinha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyasinhamisti999@gmail.com) 
 
 # 💻 Tech Stack:
