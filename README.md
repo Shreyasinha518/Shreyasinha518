@@ -1,5 +1,30 @@
-#💫 About Me:
-🌟 Hi, I’m Shreya Sinha from Techno Main Salt Lake!<br>
+<h1 align="center">Hi 👋, I'm Shreya Sinha</h1>
+
+<h3 align="center">Full Stack Developer | Machine Learning Developer | Content writer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jibankumarpanda&color=blueviolet" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=%3E_Full+Stack+Development;%3E_Backend+Architecture;%3E_3D+Model+Design;%3E_Interactive+Animations" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Tech Animation" width="500">
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jiban-panda-137037331/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-j-bay.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/�_My_Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FFD700" alt="Portfolio" />
+  </a>
+  <a href="mailto:pandajiban331@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 💻 Fun fact? I can switch from smashing a badminton shuttle to smashing bugs in code with the same level of excitement!<br>
 🚀 I’m always exploring new tech, picking up cool skills, and building things that make me go “whoa, I made that!”<br>
 🤝 Here on Github, I’m all about collaborating, creating, and growing with inspiring people like you.<br>
