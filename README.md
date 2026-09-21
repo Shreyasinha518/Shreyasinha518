@@ -14,14 +14,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Tech Animation" width="500">
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jiban-panda-137037331/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://portfolio-j-bay.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/�_My_Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FFD700" alt="Portfolio" />
-  </a>
-  <a href="mailto:pandajiban331@gmail.com">
+
+  
+  <a href="Shreyasinhamisti999@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
