@@ -1,4 +1,4 @@
-1<h1 align="center">Hi 👋, I'm Shreya Sinha</h1>
+<h1 align="center">Hi 👋, I'm Shreya Sinha</h1>
 
 <h3 align="center">Full Stack Developer | Machine Learning Developer | Content writer</h3>
 
@@ -42,6 +42,12 @@ Let’s make something awesome together! ✨🔥
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Shreyasinha518&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation">
+
+</div>
+
 
 
 ### ✍️ Random Dev Quote
