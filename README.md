@@ -105,11 +105,7 @@ My main interests are **Full Stack Development, Machine Learning, Data, and prob
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shreyasinha518&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="180" alt="GitHub Stats">
 
-  <img src="https://streak-stats.demolab.com/?user=Shreyasinha518&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=AAAAAA" height="180" alt="GitHub Streak">
-</p>
-
----
-
+ 
 
 
 #  Currently Building My Journey
