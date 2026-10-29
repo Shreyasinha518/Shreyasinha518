@@ -99,13 +99,6 @@ My main interests are **Full Stack Development, Machine Learning, Data, and prob
 
 ---
 
-#  GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyasinha518&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true" alt="GitHub Activity Graph">
-</p>
-
----
 
 # GitHub Statistics
 
