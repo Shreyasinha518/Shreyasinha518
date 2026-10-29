@@ -117,13 +117,7 @@ My main interests are **Full Stack Development, Machine Learning, Data, and prob
 
 ---
 
-#  Contribution Journey
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-</p>
-
----
 
 #  Currently Building My Journey
 
