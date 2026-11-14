@@ -1,4 +1,4 @@
-<h1 align="center">✨ HI ! I'M SHREYA SINHA✨</h1>
+<h1 align="center">✨ HI ! I'M SHREYA SINHA ✨</h1>
 
 <h3 align="center">Full Stack Developer • Machine Learning Developer • Content Writer</h3>
 
